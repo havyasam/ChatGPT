@@ -116,7 +116,7 @@ const App = () => {
 
 
   return (
-    <div class="bg-bodygrey  w-full h-[751px]">
+    <div class="bg-bodygrey  w-full h-[777px]">
       
        <div class='w-900px h-[300px]' >
         <div class = ' overflow-y-auto '>
@@ -139,7 +139,7 @@ const App = () => {
         </div>
         </div>
       </div>
-      <div class = " w-[320px] pl-[326px] mt-[336px]">
+      <div class = " w-[320px] pl-[326px] mt-[356px]">
       {/* <BsPaperclip  color='white' class = 'absolute mt-[53px] ml-4 text-lg font-bold'/> */}
       < PiToolboxDuotone color='white' class = 'absolute mt-[52px] ml-12  text-[27px] font-bold'/>
      
